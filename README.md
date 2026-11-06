@@ -95,3 +95,11 @@ The included source record metadata identifies the dataset licence as MIT. Attri
 
 ### Comparison with a stronger benchmark
 ![Benchmark comparison](results/figures/benchmark_comparison.png)
+
+## Initial Excel pilot
+
+[Download the Excel workbook](excel/energy_scheduling_excel_pilot.xlsx)
+
+The initial Excel pilot calculates electricity costs for different production start times while keeping the operation order fixed. It provides an initial check before the more extensive Python scheduling analysis.
+
+The Excel pilot and later Python scenarios use different production quantities and scheduling assumptions, so their savings figures should not be compared directly.

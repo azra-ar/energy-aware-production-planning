@@ -84,3 +84,14 @@ Bruno Mota, Luis Gomes, Pedro Faria, Carlos Ramos and Zita Vale. *Production lin
 Related methodology: Mota et al. (2021), *Production Line Optimization to Minimize Energy Cost and Participate in Demand Response Events*, Energies 14(2), 462. [DOI 10.3390/en14020462](https://doi.org/10.3390/en14020462).
 
 The included source record metadata identifies the dataset licence as MIT. Attribution and the original source file are retained under `data/raw/`. This repository is an independent analysis and does not imply company affiliation or endorsement. A separate licence for newly written project code has not been selected.
+
+## Visual results
+
+### Daily electricity cost savings
+![Daily electricity cost savings](results/figures/daily_savings_comparison.png)
+
+### Workload and electricity price sensitivity
+![Workload and price sensitivity](results/figures/workload_price_day_heatmap.png)
+
+### Comparison with a stronger benchmark
+![Benchmark comparison](results/figures/benchmark_comparison.png)

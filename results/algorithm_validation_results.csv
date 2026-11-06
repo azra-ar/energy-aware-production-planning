@@ -1,0 +1,7 @@
+test,valid_plans_enumerated,exhaustive_cost_eur,dp_cost_eur,result
+variable_prices_no_setup,210,0.00294,0.00294,PASS
+variable_prices_5min_setup,60,0.00302,0.00302,PASS
+variable_prices_10min_setup,6,0.00452,0.00452,PASS
+insufficient_capacity,0,,,PASS
+constant_prices,60,0.004,0.004,PASS
+mixed_sign_prices,60,-0.00444,-0.00444,PASS

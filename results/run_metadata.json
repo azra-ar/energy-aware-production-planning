@@ -1,0 +1,43 @@
+{
+  "source_doi": "10.5281/zenodo.4106746",
+  "source_sha256": "5cecb2eb95437d6b789726f302860cefb446731af9eadba2a8379af5644ed169",
+  "machine": "MAQ120",
+  "slot_minutes": 5,
+  "working_hours": "07:00–23:00",
+  "original_selected_quantities": [
+    10,
+    15,
+    4
+  ],
+  "controlled_workload_mix": [
+    2,
+    3,
+    1
+  ],
+  "workload_levels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "setup_scenarios_minutes": [
+    0,
+    5,
+    10,
+    15
+  ],
+  "main_setup_minutes": 5,
+  "initial_setup_minutes": 0,
+  "setup_energy_kwh": 0,
+  "idle_energy_kwh": 0,
+  "all_jobs_available_at": "07:00",
+  "price_information": "complete day known before scheduling",
+  "daily_demand_is_scenario": true,
+  "unassigned_modes_excluded": [
+    "Harden[1] TM2"
+  ],
+  "flat_price_check_savings_eur": 2.220446049250313e-15,
+  "independent_validation_tests_passed": 6,
+  "python_version": "3.12.14"
+}

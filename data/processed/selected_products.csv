@@ -1,0 +1,4 @@
+job_type_id,product,mode,quantity,duration_slots,duration_minutes,energy_kwh_per_unit
+J1,PRINTED RIBBON  PES,Sublimation TM3,10,4,20,1.861
+J2,BRAIDED ELASTIC,Anti-Shrinkage TM2,15,7,35,1.679
+J3,SMOOTH STRAP(A),Ironing TM1,4,9,45,3.215

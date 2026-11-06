@@ -1,0 +1,6 @@
+# Core CLI and tests use only Python standard-library modules.
+# These packages are used for figures and the educational notebooks.
+matplotlib
+pandas
+numpy
+jinja2
